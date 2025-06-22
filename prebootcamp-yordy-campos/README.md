@@ -17,3 +17,5 @@ Este repositorio contiene mi solución al reto del nivel básico, cumpliendo con
 - Uso de condiciones con JavaScript.
 - Interacción con el usuario mediante un botón (No lo pide en la ruta basica pero decidi implementarlo).
 - Mensaje visible en consola y pantalla.
+
+gracias por visualizar este pequeño trabajo
