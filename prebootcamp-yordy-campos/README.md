@@ -18,16 +18,18 @@ Este repositorio contiene mi solución al reto del nivel básico, cumpliendo con
 - Interacción con el usuario mediante un botón (No lo pide en la ruta basica pero decidi implementarlo).
 - Mensaje visible en consola y pantalla.
 
-Gracias por revisar mi trabajo 
+## Preguntas
 
-¿Qué rol tiene el Product Owner?
+- ¿Qué rol tiene el Producto Owner?
 
 Es la persona que dice que se va a hacer en el proyecto.
 
-¿Para qué sirve el Daily Scrum?
+- ¿Para qué sirve el Daily Scrum?
 
 para que el equipo hable de lo que hizo y vea si hay problemas.
 
-¿Qué es un Sprint?
+- ¿Qué es un Sprint?
 
 Es un tiempo corto donde el equipo trabaja para avanzar en el proyecto.
+
+Gracias por revisar mi trabajo 
