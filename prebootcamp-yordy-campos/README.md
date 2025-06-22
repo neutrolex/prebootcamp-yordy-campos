@@ -1,6 +1,6 @@
 PreBootcamp - Yordy Campos
 
-## Ruta Basica:c
+## Ruta Basica:
 
 Hola, soy Yordy Deyvis Beckam Campos Nolasco. voy comenzado por la ruta básica, 
 
